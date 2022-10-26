@@ -3,7 +3,7 @@ title: Методи апроксимацiї функцiї цiнностi
 ---
 
 26 жов
-: **Лекція 7**{: .label .label-green } **Методи апроксимацiї функцiї цiнностi**
+: **Лекція 7**{: .label .label-green } **Методи апроксимацiї функцiй**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture7.pdf)]
 
 
