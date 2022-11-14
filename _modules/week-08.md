@@ -2,8 +2,8 @@
 title: Семінар
 ---
 
-2-9 лис
-: **Семінар**{: .label .label-yellow} **Очікуються теми для підготовки**
-  : 
+2-11 лис
+: **Семінар**{: .label .label-yellow} [**Теми для підготовки**](https://ykochura.github.io/rl-kpi/seminar/topics.pdf)
+  : Дедлайн: 11 листопада
 
 
