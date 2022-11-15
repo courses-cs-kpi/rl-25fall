@@ -22,7 +22,7 @@ url: 'https://courses-cs-kpi.github.io' # the base hostname & protocol for your 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
-remote_theme: pdmosses/just-the-docs@pages-and-collections
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark 
 search_enabled: true
 heading_anchors: true
