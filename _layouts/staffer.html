@@ -20,7 +20,7 @@
     <p class="staffer-meta">Кафедра {{ page.department | markdownify | strip_html }}</p>
     {% endif %}
     {% if page.site %}
-      <p class="staffer-meta"> Лекції: <a href="{{ page.site }}">{{  page.lectures | markdownify | strip_html }}</a></p>
+      <p class="staffer-meta"> Заняття: <a href="{{ page.site }}">{{  page.lectures | markdownify | strip_html }}</a></p>
       {% else %}
       {{ page.lectures }}
       {% endif %}
