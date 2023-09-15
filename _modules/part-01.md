@@ -2,7 +2,7 @@
 title: Вступ
 ---
 
-7 вер
+15 вер
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/course-details.pdf)][[VIDEO](https://)][[VIDEO](https://youtu.be/s0inGAwksF4)]
 
