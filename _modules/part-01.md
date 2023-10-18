@@ -13,5 +13,10 @@ title: Вступ
 : **Лекція 2**{: .label .label-green } **Марковськi процеси прийняття рiшень**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)][[VIDEO](https://youtu.be/)]
 
+
+: **ПР #1**{: .label .label-purple} [**Практична робота #1**](https://ykochura.github.io/rl-kpi/practice/practice1.pdf)
+  : Дедлайн: 25 жовтня
+
+
 <!-- : **Книги 📚**{: .label .label-red}**Для читання** -->
   <!-- : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34 -->
