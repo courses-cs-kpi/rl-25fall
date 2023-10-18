@@ -9,7 +9,7 @@ title: Вступ
 : **Лекція 1**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture1.pdf)][[VIDEO](https://youtu.be/t_4451RF51Y)]
 
-15 вер
+29 вер
 : **Лекція 2**{: .label .label-green } **Марковськi процеси прийняття рiшень**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)][[VIDEO](https://youtu.be/)]
 
