@@ -14,7 +14,7 @@ title: Вступ
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)]
 
 18 жов
-: **ПР #1**{: .label .label-purple} [**Дотримання стратегії у середовищі**]
+: **ПР #1**{: .label .label-purple} **Дотримання стратегії у середовищі**
   : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice1.pdf)]
 : Дедлайн: 25 жовтня
 
