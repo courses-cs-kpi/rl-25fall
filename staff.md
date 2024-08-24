@@ -18,9 +18,9 @@ nav_order: 2
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
-## Асистенти
+<!-- ## Асистенти
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
+{% endif %} -->
