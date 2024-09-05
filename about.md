@@ -28,7 +28,8 @@ nav_order: 1
 
 Підручники
 : 1. Sutton, R. S., & Barto, A. G. (2018). [*Reinforcement learning: An introduction.* ](http://incompleteideas.net/book/the-book-2nd.html) MIT press.
-2. Zai, A., & Brown, B. (2020). [*Deep reinforcement learning in action.*](https://www.manning.com/books/deep-reinforcement-learning-in-action) Manning Publications.
+1. Zai, A., & Brown, B. (2020). [*Deep reinforcement learning in action.*](https://www.manning.com/books/deep-reinforcement-learning-in-action) Manning Publications.
+ 1. Кочура Ю. П., Гордієнко Ю. Г. (2024). [*Машинне навчання*](https://drive.google.com/file/d/130ruX0CGGNtX1E39Y622Bu_CThHjb9nc/view?usp=sharing).
 
 
 ## На випадок повітряної тривоги
