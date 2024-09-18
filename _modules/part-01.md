@@ -2,16 +2,22 @@
 title: Вступ
 ---
 
-# Очікується
+
 05 вер
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/course-details.pdf)]
-  
 
-<!-- : **Лекція 1**{: .label .label-green } **Вступ**
-  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture1.pdf)][[VIDEO](https://youtu.be/t_4451RF51Y)]
+18 вер
+: **Лекція 1**{: .label .label-green } **Вступ**
+  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture1.pdf)]
 
-29 вер
+
+# Очікується
+25 вер
+: **Лекція 2**{: .label .label-green } **Марковськi процеси прийняття рiшень**
+
+
+<!-- 29 вер
 : **Лекція 2**{: .label .label-green } **Марковськi процеси прийняття рiшень**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)]
 
@@ -29,7 +35,7 @@ title: Вступ
 
 22 лис
 : **Лекція 3**{: .label .label-green } **Планування за допомогою динамiчного програмування**
-  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)] -->
+  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)]  -->
 
 
 <!-- : **Книги 📚**{: .label .label-red}**Для читання** -->
