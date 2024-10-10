@@ -12,29 +12,24 @@ title: Вступ
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture1.pdf)]
 
 
-# Очікується
 02 жов
 : **Лекція 2**{: .label .label-green } **Марковськi процеси прийняття рiшень**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)]
 
 
-<!-- 29 вер
-: **Лекція 2**{: .label .label-green } **Марковськi процеси прийняття рiшень**
-  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)]
-
-18 жов
-: **ПР #1**{: .label .label-purple} **Дотримання стратегії у середовищі**
-  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice1.pdf)]
-: Дедлайн: 25 жовтня
+10 жов
+: **ПР #1**{: .label .label-purple} **Q-навчання**
+  : [[PDF](https://drive.google.com/drive/folders/17kjeU3wM-HGM2KgCpmavfpU4zKtwSoT0?usp=sharing)]
+: Дедлайн: 27 жовтня
 
 
-21 лис
+<!-- 21 лис
 : **ПР #2**{: .label .label-purple} **N -рукий бандит**
   : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice2/practice2.pdf)]
-: Дедлайн: 10 грудня
+: Дедлайн: 10 грудня -->
 
-
-22 лис
+# Очікується
+16 жов
 : **Лекція 3**{: .label .label-green } **Планування за допомогою динамiчного програмування**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)]  -->
 
