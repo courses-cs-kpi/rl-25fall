@@ -31,7 +31,7 @@ title: Вступ
 # Очікується
 16 жов
 : **Лекція 3**{: .label .label-green } **Планування за допомогою динамiчного програмування**
-  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)]  -->
+  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)] 
 
 
 <!-- : **Книги 📚**{: .label .label-red}**Для читання** -->
