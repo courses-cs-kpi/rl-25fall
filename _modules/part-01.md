@@ -32,9 +32,13 @@ title: Вступ
 : **Лекція 3**{: .label .label-green } **Планування за допомогою динамiчного програмування**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)] 
 
-## Очікується
+
 30 жов
 : **ПР #2**{: .label .label-purple} **N -рукий бандит**
-  : [[Деталі]()]
-: Дедлайн: 
+  : [[PDF](https://drive.google.com/drive/folders/1GRpFDtMJzLgsAH2yxG6-Ade2stB4cEW3?usp=sharing)]
+: Дедлайн: 10 листопада
 
+## Очікується
+13 лис
+: **Лекція 4**{: .label .label-green } **Безмодельне передбачення**
+  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture4.pdf)] 
