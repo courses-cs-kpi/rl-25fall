@@ -23,11 +23,6 @@ title: Вступ
 : Дедлайн: 27 жовтня
 
 
-<!-- 21 лис
-: **ПР #2**{: .label .label-purple} **N -рукий бандит**
-  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice2/practice2.pdf)]
-: Дедлайн: 10 грудня -->
-
 16 жов
 : **Лекція 3**{: .label .label-green } **Планування за допомогою динамiчного програмування**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)] 
