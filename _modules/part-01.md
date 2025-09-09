@@ -3,11 +3,11 @@ title: Вступ
 ---
 
 
-05 вер
+09 вер
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/course-details.pdf)]
 
-18 вер
+<!-- 18 вер
 : **Лекція 1**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture1.pdf)]
 
@@ -36,4 +36,4 @@ title: Вступ
 ## Очікується
 13 лис
 : **Лекція 4**{: .label .label-green } **Безмодельне передбачення**
-  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture4.pdf)] 
+  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture4.pdf)]  -->

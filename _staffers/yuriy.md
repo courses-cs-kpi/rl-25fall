@@ -10,4 +10,4 @@ lectures: онлайн
 site: http://roz.kpi.ua/
 ---
 
-[BBB кімната](https://bbb.ugrid.org/b/yur-juh-kwn-yuk){: .btn .btn-outline }
+[BBB кімната](https://bbb.comsys.kpi.ua/rooms/yur-juh-kwn-yuk/join){: .btn .btn-outline }

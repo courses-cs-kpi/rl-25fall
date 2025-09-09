@@ -7,8 +7,6 @@ nav_order: 2
 
 # Викладацький склад
 
-## Інструктор
-
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
