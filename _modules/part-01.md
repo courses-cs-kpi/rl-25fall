@@ -7,12 +7,12 @@ title: Вступ
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/course-details.pdf)]
 
-<!-- 18 вер
-: **Лекція 1**{: .label .label-green } **Вступ**
+ 16 вер
+: **Лекція 1**{: .label .label-green } **Вступ до RL**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture1.pdf)]
 
 
-02 жов
+<!-- 02 жов
 : **Лекція 2**{: .label .label-green } **Марковськi процеси прийняття рiшень**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)]
 
