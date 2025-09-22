@@ -17,8 +17,8 @@ title: Вступ
 
 23 вер
 : **ПР #1**{: .label .label-purple} **Q-навчання**
-  : [[PDF](https://ykochura.github.io/rl-kpi/practice/practice1/practice1.pdf)]
-: Дедлайн: 12 жовтня
+  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice1/practice1.pdf)]
+    : **Дедлайн**: 12 жовтня
 
 
 <!-- 02 жов
