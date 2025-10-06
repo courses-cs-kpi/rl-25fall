@@ -20,15 +20,13 @@ title: Вступ
   : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice1/practice1.pdf)]
     : **Дедлайн**: 12 жовтня
 
-
-<!-- 02 жов
+07 жов
 : **Лекція 2**{: .label .label-green } **Марковськi процеси прийняття рiшень**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)]
 
 
 
-
-
+<!-- 
 16 жов
 : **Лекція 3**{: .label .label-green } **Планування за допомогою динамiчного програмування**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)] 
