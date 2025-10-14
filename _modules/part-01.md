@@ -25,13 +25,13 @@ title: Вступ
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)]
 
 
-
-<!-- 
-16 жов
+14 жов
 : **Лекція 3**{: .label .label-green } **Планування за допомогою динамiчного програмування**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)] 
 
 
+
+<!-- 
 30 жов
 : **ПР #2**{: .label .label-purple} **N -рукий бандит**
   : [[PDF](https://drive.google.com/drive/folders/1GRpFDtMJzLgsAH2yxG6-Ade2stB4cEW3?usp=sharing)]
