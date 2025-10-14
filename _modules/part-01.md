@@ -29,6 +29,9 @@ title: Вступ
 : **Лекція 3**{: .label .label-green } **Планування за допомогою динамiчного програмування**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)] 
 
+: **ПР #1**{: .label .label-purple} **N-рукий бандит**
+  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice2/practice2.pdf)]
+    : **Дедлайн**: 28 жовтня
 
 
 <!-- 
