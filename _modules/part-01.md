@@ -35,7 +35,7 @@ title: Вступ
 
 11 лис
 : **Лекція 4**{: .label .label-green } **Розробка та навчання агентів**
-  : [[COLAB](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)] 
+  : [[COLAB](https://colab.research.google.com/github/YKochura/rl-kpi/blob/main/tutor/rl_notebook.ipynb)] 
 
 
 <!-- 
