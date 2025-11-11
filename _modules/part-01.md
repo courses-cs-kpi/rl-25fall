@@ -33,6 +33,10 @@ title: Вступ
   : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice2/practice2.pdf)]
     : **Дедлайн**: 28 жовтня
 
+11 лис
+: **Лекція 4**{: .label .label-green } **Розробка та навчання агентів**
+  : [[COLAB](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)] 
+
 
 <!-- 
 30 жов
