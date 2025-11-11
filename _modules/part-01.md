@@ -35,7 +35,11 @@ title: Вступ
 
 11 лис
 : **Лекція 4**{: .label .label-green } **Розробка та навчання агентів**
-  : [[COLAB](https://colab.research.google.com/github/YKochura/rl-kpi/blob/main/tutor/rl_notebook.ipynb)] 
+  : [[COLAB](https://colab.research.google.com/github/YKochura/rl-kpi/blob/main/tutor/rl_notebook.ipynb)]
+
+: **ПР #3**{: .label .label-purple} **Глибока Q-мережа**
+  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice3.pdf)]
+    : **Дедлайн**: 28 жовтня 
 
 
 <!-- 
