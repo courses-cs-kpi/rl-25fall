@@ -39,7 +39,12 @@ title: Вступ
 
 : **ПР #3**{: .label .label-purple} **Глибока Q-мережа**
   : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice3.pdf)]
-    : **Дедлайн**: 10 грудня 
+    : **Дедлайн**: 10 грудня
+
+
+17 лис
+: **Семінар**{: .label .label-yellow} **Теми на семінар**
+  : [[PDF](https://ykochura.github.io/rl-kpi/seminar/topics.pdf)]  
 
 
 <!-- 
