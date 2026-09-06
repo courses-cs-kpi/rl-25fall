@@ -3,11 +3,11 @@ title: Вступ
 ---
 
 
-09 вер
+07 вер
 : **Огляд**{: .label .label-blue}**Загальні деталі 👋**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/course-details.pdf)]
 
- 16-23 вер
+<!--  16-23 вер
 : **Лекція 1**{: .label .label-green } **Вступ до RL**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture1.pdf)]
 
@@ -45,7 +45,7 @@ title: Вступ
 17 лис
 : **Семінар**{: .label .label-yellow} **Теми на семінар**
   : [[PDF](https://ykochura.github.io/rl-kpi/seminar/topics.pdf)]  
-
+ -->
 
 <!-- 
 30 жов
